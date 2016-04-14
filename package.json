@@ -1,0 +1,28 @@
+{
+  "name": "numbFormat",
+  "version": "1.0.0",
+  "description": "Generates an object with information about how to display large and small numbers in scientific notation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://://github.com/AndrewStaroscik/numbFormat"
+  },
+  "keywords": [
+    "number format",
+    "scientific notation",
+    "html"
+  ],
+  "author": "Andrew Staroscik <amstaroscik@gmail.com> (http://andrewstaroscik.com/)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/AndrewStaroscik/numbFormat/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/AndrewStaroscik/numbFormat/issues"
+  }
+}
